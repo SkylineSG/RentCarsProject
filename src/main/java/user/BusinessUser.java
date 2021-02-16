@@ -1,15 +1,19 @@
 package user;
 
+import Price.PriceComfort;
+
 public class BusinessUser implements User {
     private String name;
     private String surname;
     private int ID;
+    private PriceComfort price;
 
     public BusinessUser(String name, String surname, int ID) {
         this.name = name;
         this.surname = surname;
         this.ID = ID;
     }
+
     @Override
     public String getName() {
         return name;

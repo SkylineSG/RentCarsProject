@@ -3,19 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9bceb140-3245-4bfc-a62d-83eed533d9e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Rent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Rent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/suv/Bmw_x5_WW90678.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/suv/Bmw_x5_WW90678.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/PACKAGE_NAME/CarsFleetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,59 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/user/BusinessUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/UsersTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/RentTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/user/NormalUser.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,6 +40,60 @@
                 <element signature="e#583#584#0" expanded="true" />
                 <element signature="e#616#617#0" expanded="true" />
                 <element signature="e#644#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1080#1081#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Price/PriceComfort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,11 +126,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Cars/Suv/Suv.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/Suv/Bmw_x5_WW90678.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/suv/Bmw_x5_WW90678.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/CarFleet.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarsFleetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rent.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" />
@@ -148,6 +136,9 @@
         <option value="$PROJECT_DIR$/src/main/java/user/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/user/NormalUser.java" />
         <option value="$PROJECT_DIR$/src/test/java/RentTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Price/PriceComfort.java" />
       </list>
     </option>
   </component>
@@ -372,8 +363,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -385,7 +377,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32411674" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32411674" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.06758833" />
@@ -467,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -526,20 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
@@ -548,6 +519,13 @@
             <element signature="e#296#297#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -610,10 +588,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Price/PriceComfort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,3 +1,4 @@
+import Price.PriceComfort;
 import cars.Comfort.Mercedes_sls_WW70394;
 import cars.suv.Bmw_x5_WW90678;
 import cars.Car;
@@ -30,6 +31,7 @@ public class RentTestSuite {
     }
     @Test
     public void RentMercedes_sls_WW70394Test() {
+        PriceComfort price;
         User krzysztof = new NormalUser("Krzysztof","Kononowicz",86756487);
         User piotr = new NormalUser("Krzysztof","Kononowicz",864576487);
 

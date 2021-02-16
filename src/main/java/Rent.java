@@ -1,3 +1,4 @@
+import Price.PriceComfort;
 import cars.Car;
 import user.User;
 
@@ -8,6 +9,7 @@ public class Rent {
     private User user;
     private Car car;
     private LocalDate localDate = LocalDate.now();
+    private PriceComfort price;
 
     public Rent(User user, Car car) {
         this.user = user;
@@ -16,8 +18,8 @@ public class Rent {
 
 
     public void rent(){
-            car.rent();
-            getRentInfo();
+        car.rent();
+        getRentInfo();
 
     }
 

@@ -1,12 +1,16 @@
 package cars.Comfort;
 
+import Price.PriceComfort;
+
 public class Mercedes_sls_WW70394 implements Comfort {
 
     private final String model = "Mercedes sls";
     private final String type = "Comfort";
     private final String registration = "WW70394";
-    private int vin = 78473584;
-    private boolean isRented = false;
+    private final int vin = 78473584;
+    private  boolean isRented = false;
+    PriceComfort price;
+
 
 
 
@@ -43,6 +47,13 @@ public class Mercedes_sls_WW70394 implements Comfort {
         }else if (isRented == true) {
             System.out.println("Nie możesz go wynająć");
         }
+    }
+    public PriceComfort setPrice(PriceComfort price){
+        return price;
+    }
+
+    public PriceComfort getPrice() {
+        return price;
     }
 
     @Override
