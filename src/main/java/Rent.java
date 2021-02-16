@@ -2,19 +2,23 @@ import cars.Car;
 import user.User;
 
 import java.time.LocalDate;
+import java.util.HashMap;
 
 public class Rent {
     private User user;
     private Car car;
-    private LocalDate localDate= LocalDate.now();
+    private LocalDate localDate = LocalDate.now();
 
     public Rent(User user, Car car) {
         this.user = user;
         this.car = car;
     }
 
+
     public void rent(){
-        car.rent();
+            car.rent();
+            getRentInfo();
+
     }
 
     public void getDayRent() {
@@ -43,4 +47,5 @@ public class Rent {
                 ", car=" + car +
                 '}';
     }
+
 }

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bceb140-3245-4bfc-a62d-83eed533d9e6" name="Default Changelist" comment="" />
+    <list default="true" id="9bceb140-3245-4bfc-a62d-83eed533d9e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Rent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Rent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/suv/Bmw_x5_WW90678.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/suv/Bmw_x5_WW90678.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/PACKAGE_NAME/CarsFleetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -18,66 +33,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-              <folding>
-                <element signature="e#336#337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CarsFleetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarFleet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Rent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/user/BusinessUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/UsersTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RentTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/user/NormalUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,6 +119,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -100,7 +129,6 @@
         <option value="$PROJECT_DIR$/src/main/java/User/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/Exceptions/CarIsRentedException.java" />
         <option value="$PROJECT_DIR$/src/main/java/Exceptions/CarIsNotAvailable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Rent.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/Bmw_x5_WW90678.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/CarFleet.java" />
@@ -109,13 +137,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Cars/Suv/Bmw_x5_WW90678.java" />
         <option value="$PROJECT_DIR$/src/main/java/Cars/suv/Bmw_x5_WW90678.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/CarFleet.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarsFleetTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RentTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Rent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/BusinessUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/NormalUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RentTestSuite.java" />
       </list>
     </option>
   </component>
@@ -125,10 +157,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -174,6 +209,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cars" type="462c0819:PsiDirectoryNode" />
+              <item name="Comfort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RentCar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RentCar" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RentCar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RentCar" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,10 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RentTestSuite.showAllCars">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="RentCar_main" />
+  <component name="RunManager" selected="JUnit.RentTestSuite.RentMercedes_sls_WW70394Test">
+    <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RentCar_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RentTestSuite" />
+      <option name="METHOD_NAME" value="RentMercedes_sls_WW70394Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RentTestSuite.RentMercedes_sls_WW70394Test" />
         <item itemvalue="JUnit.RentTestSuite.showAllCars" />
         <item itemvalue="JUnit.RentTestSuite.showComfortCars" />
         <item itemvalue="JUnit.RentTestSuite.showCars" />
         <item itemvalue="JUnit.RentTestSuite.makeCarList" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -284,54 +339,53 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RentTestSuite_showCars - 2021.02.14 at 23h 50m 42s.xml">
-      <configuration name="RentTestSuite.showCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 05m 58s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showCars - 2021.02.14 at 23h 50m 55s.xml">
-      <configuration name="RentTestSuite.showCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 06m 05s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showCars - 2021.02.14 at 23h 51m 31s.xml">
-      <configuration name="RentTestSuite.showCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 07m 54s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showCars - 2021.02.14 at 23h 53m 00s.xml">
-      <configuration name="RentTestSuite.showCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 17m 54s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showCars - 2021.02.14 at 23h 53m 27s.xml">
-      <configuration name="RentTestSuite.showCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 30m 27s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showAllCars - 2021.02.14 at 23h 53m 42s.xml">
-      <configuration name="RentTestSuite.showAllCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 30m 40s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showAllCars - 2021.02.14 at 23h 55m 40s.xml">
-      <configuration name="RentTestSuite.showAllCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 30m 51s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showComfortCars - 2021.02.14 at 23h 55m 57s.xml">
-      <configuration name="RentTestSuite.showComfortCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 32m 17s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showAllCars - 2021.02.14 at 23h 57m 23s.xml">
-      <configuration name="RentTestSuite.showAllCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 33m 26s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RentTestSuite_showAllCars - 2021.02.14 at 23h 57m 36s.xml">
-      <configuration name="RentTestSuite.showAllCars" configurationId="JUnit" />
+    <history-entry file="RentTestSuite_RentMercedes_sls_WW70394Test - 2021.02.16 at 20h 39m 05s.xml">
+      <configuration name="RentTestSuite.RentMercedes_sls_WW70394Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29339477" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42242703" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32411674" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.06758833" />
@@ -394,18 +448,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Exceptions/CarIsRentedException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="44" column="93" selection-start-line="44" selection-start-column="93" selection-end-line="44" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/CarIsNotAvailable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -432,52 +474,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RentTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarFleet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -497,32 +507,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarFleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/suv/Bmw_x5_WW90678.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/BusinessUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UsersTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RentTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/NormalUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>

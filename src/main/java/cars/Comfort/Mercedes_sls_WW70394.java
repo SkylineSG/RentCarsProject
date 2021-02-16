@@ -9,11 +9,13 @@ public class Mercedes_sls_WW70394 implements Comfort {
     private boolean isRented = false;
 
 
-    @Override
-    public boolean rent() {
-      return   isRented = true;
-    }
 
+    public void rent() {
+        if (isRented == true) {
+            System.out.println("Samochód już wynajęty!");
+        }else
+            isRented = true;
+    }
     @Override
     public String getModel() {
         return model;

@@ -10,8 +10,9 @@ public class Bmw_x5_WW90678 implements Suv {
     private int vin = 123564577;
     private boolean isRented = false;
 
-    public boolean rent() {
-        return isRented = true;
+
+    public void rent() {
+         isRented = true;
     }
 
     @Override
@@ -59,4 +60,6 @@ public class Bmw_x5_WW90678 implements Suv {
                 ", isRented=" + isRented +
                 '}';
     }
+
+
 }

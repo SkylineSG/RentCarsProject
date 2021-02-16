@@ -10,6 +10,6 @@ public interface Car {
      void getIsRented();
      double getfuelStatus();
 
-    boolean rent();
+    void rent();
 }
 
