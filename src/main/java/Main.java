@@ -1,9 +1,42 @@
 import cars.CarFleet;
+import cars.repository.MercedesRentalRepository;
+import request.RentRequest;
+import request.RentRequestRetriver;
+import service.InformationService;
+import service.MailService;
+import service.MercedesRentalService;
+import service.RentalService;
 
 public class Main {
 
 
     public static void main(String[] args) {
+
+        RentRequestRetriver rentRequestRetriver = new RentRequestRetriver();
+
+        RentRequest rentRequest1 = rentRequestRetriver.retrive1();
+
+        RentalProcessor rentalProcessor = new RentalProcessor(new MailService(),new MercedesRentalService(),new MercedesRentalRepository());
+        rentalProcessor.process(rentRequest1);
+
+        rentRequest1.toString();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //        Scanner uzytkownik1 = new Scanner(System.in);

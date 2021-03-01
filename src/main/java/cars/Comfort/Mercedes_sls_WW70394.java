@@ -4,15 +4,20 @@ import Price.PriceComfort;
 
 public class Mercedes_sls_WW70394 implements Comfort {
 
-    private final String model = "Mercedes sls";
-    private final String type = "Comfort";
-    private final String registration = "WW70394";
-    private final int vin = 78473584;
+    private  String model = "Mercedes sls";
+    private  String type = "Comfort";
+    private  String registration = "WW70394";
+    private  int vin = 78473584;
     private  boolean isRented = false;
     PriceComfort price;
 
-
-
+    public Mercedes_sls_WW70394(final String model,final String type,final String registration,final int vin,final boolean isRented) {
+        this.model = model;
+        this.type = type;
+        this.registration = registration;
+        this.vin = vin;
+        this.isRented = isRented;
+    }
 
     public void rent() {
         if (isRented == true) {

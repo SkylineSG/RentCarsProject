@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 
 public class CarFleet {
    private Suv bmw_x5 = new Bmw_x5_WW90678();
-   private Comfort mercedes_sls = new Mercedes_sls_WW70394();
+  // private Comfort mercedes_sls = new Mercedes_sls_WW70394();
 
     private ArrayList<Car> cars = new ArrayList();
     private ArrayList<Suv> suvs = new ArrayList();
@@ -33,14 +33,14 @@ public class CarFleet {
 
         return suvs;
     }
-    public ArrayList<Comfort> comfortCarsFleet() {
-        comforts.add(mercedes_sls);
+  //  public ArrayList<Comfort> comfortCarsFleet() {
+  //      comforts.add(mercedes_sls);
 
-        return comforts;
-    }
+ //       return comforts;
+  //  }
 
-    public void getComfortLIst(){
+   // public void getComfortLIst(){
 
-        comfortCarsFleet().forEach((n)-> System.out.println("samochód ="+ n));
-    }
+   //     comfortCarsFleet().forEach((n)-> System.out.println("samochód ="+ n));
+   // }
 }

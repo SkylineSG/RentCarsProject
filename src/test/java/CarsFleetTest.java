@@ -10,10 +10,10 @@ public class CarsFleetTest {
         fleet.makeCarsFleet();
     }
 
-    @Test
-    public void showComfortCars(){
-        fleet.getComfortLIst();
-    }
+//    @Test
+//    public void showComfortCars(){
+//        fleet.getComfortLIst();
+//    }
 
     @Test
     public void showAllCars() {
