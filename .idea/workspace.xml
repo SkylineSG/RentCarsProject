@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bceb140-3245-4bfc-a62d-83eed533d9e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Rent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Rent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/CarFleet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cars/Comfort/Mercedes_sls_WW70394.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/user/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/CarsFleetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/CarsFleetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RentTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cars/CarFleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/CarFleet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Comfort/Comfort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Comfort/Mercedes_sls_WW70394.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CarsFleetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CarsFleetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RentTestSuite.java" afterDir="false" />
-    </list>
+    <list default="true" id="9bceb140-3245-4bfc-a62d-83eed533d9e6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -53,17 +37,9 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RentalProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -317,9 +293,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -331,7 +306,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.08141321" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29032257" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.23348695" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.06758833" />
@@ -716,9 +691,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RentalProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="280">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -726,11 +704,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
